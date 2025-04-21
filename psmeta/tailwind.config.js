@@ -1,0 +1,38 @@
+// module.exports = {
+//   purge: [],
+//   darkMode: false, // or 'media' or 'class'
+//   theme: {
+//     extend: {},
+//   },
+//   variants: {
+//     extend: {},
+//   },
+//   plugins: [],
+// }
+
+// /** @type {import('tailwindcss').Config} */
+// module.exports = {
+//   content: [
+//     "./src/**/*.{js,jsx,ts,tsx}", // ✅ Required to scan your source files
+//   ],
+//   theme: {
+//     extend: {},
+//   },
+//   plugins: [],
+// };
+
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: [
+    "./src/**/*.{js,jsx,ts,tsx}",
+  ],
+  theme: {
+    extend: {
+      colors: {
+        primary: "#f25022",
+        dark: "#0e0e0e",
+      },
+    },
+  },
+  plugins: [],
+}
