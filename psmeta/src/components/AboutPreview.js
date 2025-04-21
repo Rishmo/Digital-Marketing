@@ -1,4 +1,4 @@
-import aboutImg from "../assets/about-image.jpg"; // Replace with real image
+import aboutImg from "../assets/about-image.jpg"; 
 import { motion } from "framer-motion";
 import { useNavigate } from "react-router-dom";
 

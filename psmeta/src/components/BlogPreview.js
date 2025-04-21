@@ -5,7 +5,7 @@ const blogs = [
     title: "Top 10 SEO Tips for 2025",
     date: "Apr 1, 2025",
     excerpt: "Boost your site's visibility with these key strategies.",
-    image: "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjcwMHwwfDF8c2VhY2h8Mnx8c2VvfGVufDB8fHx8fDE2NzM0NzE3MTY&ixlib=rb-1.2.1&q=80&w=1080", // SEO image
+    image: "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjcwMHwwfDF8c2VhY2h8Mnx8c2VvfGVufDB8fHx8fDE2NzM0NzE3MTY&ixlib=rb-1.2.1&q=80&w=1080", 
   },
   {
     title: "Why Social Media Ads Work",
